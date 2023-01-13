@@ -1,0 +1,28 @@
+.user-details .input-box input{
+    height: 45px;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    padding-left: 15px;
+    border: 1px solid #ccc;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease;
+}
+body{
+	background-image : linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(amm.jpg);
+	background-size : cover ;
+	background-position : center;
+	
+}
+.container{
+    max-width: 700px;
+    width: 100%;
+    background-color:transparent;
+    padding: 25px 30px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+    margin-left: 27%;
+    margin-top: 100px;
+    color: #fff;
+  }
